@@ -1,8 +1,8 @@
 # 🚀 CostSpike-Detector — Real-Time Cloud Spend Anomaly Detection
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python&logoColor=white)  
-![Tool](https://img.shields.io/badge/Spend-Anomaly-Detector-FF5252.svg?logo=dollar-sign)  
-![Features](https://img.shields.io/badge/Features-Real-Time%20Detection-4CAF50.svg?logo=chart-line)  
+![Tool](https://img.shields.io/badge/Tool-Cost%20Anomaly%20Detector-FF5252.svg?logo=dollar-sign&logoColor=white)
+![Features](https://img.shields.io/badge/Features-Real%20Time%20Detection-4CAF50.svg?logo=chart-line&logoColor=white)
 ![Reports](https://img.shields.io/badge/Reports-JSON-2196F3.svg?logo=json)  
 ![CI/CD](https://img.shields.io/badge/CI/CD-Ready-2088FF.svg?logo=githubactions)  
 ![Dependencies](https://img.shields.io/badge/Dependencies-None-green.svg?logo=python)
