@@ -9,7 +9,7 @@
 
 **CostSpike-Detector** is a **Python 3** tool designed for DevOps and FinOps teams to simulate and detect unexpected spikes in cloud-spend. It uses historical spend data, computes a baseline average, and flags new daily costs that exceed a configured threshold. The tool logs anomalies and writes a JSON report for consumption in pipelines or dashboards.
 
--------------
+---------------
 
 ## 🛠 Tech & Languages
 
