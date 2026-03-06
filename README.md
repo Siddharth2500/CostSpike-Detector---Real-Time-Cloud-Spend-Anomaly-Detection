@@ -21,7 +21,7 @@
 | Execution     | Script / Colab / Notebook    | Flexible runtime                             |
 | Logging       | Console output + file write  | Quick feedback + persistent results          |
 
----
+-----
 
 ## 🌐 Architecture
 
