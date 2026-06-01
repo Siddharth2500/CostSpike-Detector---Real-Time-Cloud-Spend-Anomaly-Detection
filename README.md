@@ -33,7 +33,7 @@ Flow:
 5. Output `spend_anomaly_report.json` with timestamp, number of checked points and anomalies list.  
 6. Use this report in CI/CD or dashboards for alerting or further analysis.
 
------------
+--------------
 
 ## ▶️ Run CostSpike-Detector
 
